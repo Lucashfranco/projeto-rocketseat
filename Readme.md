@@ -14,6 +14,7 @@
 
 <br>
 
+![Logo](https://github.com/Lucashfranco/projeto-rocketseat/blob/main/Images/ready1.png)
 
 
 ## 🚀 Tecnologias
