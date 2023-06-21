@@ -8,10 +8,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="protecao de dados" src=".github/ready1.png" width="100%">
-</p>
-
 <br>
 
 ![Logo](https://github.com/Lucashfranco/projeto-rocketseat/blob/main/Images/ready1.png)
